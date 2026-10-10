@@ -1,7 +1,7 @@
 "use strict";
 
 /* ---------- Configuration ---------- */
-const API_URL = "http://127.0.0.1:8000";   // change if your API runs elsewhere
+const API_URL = "https://mind-health-prediction-m3ce.onrender.com";   // change if your API runs elsewhere
 const REQUEST_TIMEOUT_MS = 15000;
 const SCORE_MAX = 10;                       // assumed scale of the model output; adjust to match your dataset
 
